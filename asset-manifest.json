@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/lay-jake.github.io/fcc_mark_down_previewer/static/css/main.073c9b0a.css",
-    "main.js": "/lay-jake.github.io/fcc_mark_down_previewer/static/js/main.ff895a0b.js",
-    "static/js/787.e4a8695d.chunk.js": "/lay-jake.github.io/fcc_mark_down_previewer/static/js/787.e4a8695d.chunk.js",
-    "index.html": "/lay-jake.github.io/fcc_mark_down_previewer/index.html",
-    "main.073c9b0a.css.map": "/lay-jake.github.io/fcc_mark_down_previewer/static/css/main.073c9b0a.css.map",
-    "main.ff895a0b.js.map": "/lay-jake.github.io/fcc_mark_down_previewer/static/js/main.ff895a0b.js.map",
-    "787.e4a8695d.chunk.js.map": "/lay-jake.github.io/fcc_mark_down_previewer/static/js/787.e4a8695d.chunk.js.map"
+    "main.css": "/fcc_mark_down_previewer/static/css/main.073c9b0a.css",
+    "main.js": "/fcc_mark_down_previewer/static/js/main.1d710270.js",
+    "static/js/787.e4a8695d.chunk.js": "/fcc_mark_down_previewer/static/js/787.e4a8695d.chunk.js",
+    "index.html": "/fcc_mark_down_previewer/index.html",
+    "main.073c9b0a.css.map": "/fcc_mark_down_previewer/static/css/main.073c9b0a.css.map",
+    "main.1d710270.js.map": "/fcc_mark_down_previewer/static/js/main.1d710270.js.map",
+    "787.e4a8695d.chunk.js.map": "/fcc_mark_down_previewer/static/js/787.e4a8695d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.ff895a0b.js"
+    "static/js/main.1d710270.js"
   ]
 }
